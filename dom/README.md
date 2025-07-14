@@ -37,6 +37,8 @@ Copyright gfycat.com
 
 **В качестве результата пришлите проверяющему ссылку на ваш GitHub-проект. Не забудьте установить бейджик сборки.**
 
+решение https://github.com/AlexTupicyn/ahj-homeworks-2-1.git
+
 ---
 
 ### Loading and Sorting, data-attributes (задача со звёздочкой)
