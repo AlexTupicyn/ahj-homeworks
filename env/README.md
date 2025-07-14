@@ -27,3 +27,5 @@
 Заменить `<OWNER>` на ваш ник на github;
 
 Заменить `<REPOSITORY>` на название вашего репозитория;
+
+решение: https://github.com/AlexTupicyn/ahj-homeworks-1.git
