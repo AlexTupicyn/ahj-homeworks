@@ -27,6 +27,8 @@
 
 **Подсказка**: страница, на которой можно "подглядеть" реализацию: https://getbootstrap.com/docs/4.3/components/popovers/. Но мы пока не проходили `translate`, `translate3d`, поэтому делайте позиционирование в px.
 
+решение https://github.com/AlexTupicyn/ahj-homeworks-5-1
+
 ---
 
 ### Редактор списка* (задача со звёздочкой)
@@ -60,6 +62,8 @@
 
 Не забудьте написать авто-тесты, разделив логику и взаимодействие с DOM. Для тестирования взаимодействия с DOM пользуйтесь Puppeteer.
 
+решение https://github.com/AlexTupicyn/ahj-homeworks/tree/master/forms/ahj-homeworks-5-2/
+
 ---
 
 ### Trip Calendar* (задача со звёздочкой)
@@ -89,3 +93,6 @@
 Для расчёта дат воспользуйтесь библиотекой `moment js` (обязательное условие). Установите и подключите её через npm/yarn.
 
 Не забудьте написать авто-тесты, разделив логику и взаимодействие с DOM. Для тестирования взаимодействия с DOM пользуйтесь JSDOM или Puppeteer.
+
+
+решение https://github.com/AlexTupicyn/ahj-homeworks/tree/master/forms/ahj-homeworks-5-3/
